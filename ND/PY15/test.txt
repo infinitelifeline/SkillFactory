@@ -1,7 +1,3 @@
-new testing string
-other string
-123
-test test
-other string
+new testing stringother string
 123
 test test
